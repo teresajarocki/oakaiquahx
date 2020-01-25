@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vocaesezay.philosophistry.com/sitemap.xml
